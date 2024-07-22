@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, bem vindo(a)!
+
+- Analista de Dados a mais de 10 anos
+- Graduada em Estatística
+- Pós-graduanda em Data Science and Analytics
+- Atualmente trabalho na Diagonal Social
+- Sou especialista em Power BI
 
 <!--
 **izdanowsky/izdanowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
